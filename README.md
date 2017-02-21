@@ -4,5 +4,5 @@ change the contents of the div #dataUrl in index.html to change the address of t
 
 to build run:
 
-npm update
+npm update<br>
 npm run build
